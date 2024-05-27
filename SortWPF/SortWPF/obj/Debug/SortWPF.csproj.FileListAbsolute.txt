@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\bin\Debug\SortWPF.exe.config
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\bin\Debug\SortWPF.exe
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\bin\Debug\SortWPF.pdb
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.g.resources
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.exe
+C:\Users\Пользователь\Desktop\Практика ИС-21\SortWPF\SortWPF\obj\Debug\SortWPF.pdb
